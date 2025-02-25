@@ -1,0 +1,13 @@
+pune   755495
+dhule  87452
+nashik 155454
+shridii 445495
+a.nagar  562523
+sanbhajinagar 54554
+ The sorted file is:
+a.nagar 562523
+dhule 87452
+nashik 155454
+pune 755495
+sanbhajinagar 54554
+shridii 445495
